@@ -8,5 +8,6 @@ public class Test1
 public void m1()
 {
 	System.out.println("welcome to automate testers");
+	System.out.println("welcome to developers");
 }
 }
